@@ -5,6 +5,6 @@ This is a 2D, 2-Player fighting game in which 2 displaced knights face off again
 Thanks for checking out Cyber-Knights!
 
 Controls:
-P1 | W - Jump, A - Move Right, D - Move Left, E - Hit.
 
+P1 | W - Jump, A - Move Right, D - Move Left, E - Hit.
 P2 | I - Jump, J - Move Left, L - Move Right, U - Hit.

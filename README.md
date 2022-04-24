@@ -7,4 +7,5 @@ Thanks for checking out Cyber-Knights!
 Controls:
 
 P1 | W - Jump, A - Move Right, D - Move Left, E - Hit.
+
 P2 | I - Jump, J - Move Left, L - Move Right, U - Hit.
